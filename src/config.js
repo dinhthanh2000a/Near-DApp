@@ -4,7 +4,7 @@ export const HelloNearContract = {
   mainnet: "hello.near-examples.near",
   testnet: "hello.near-examples.testnet",
 };
-// n
+//
 export const ComponentMap = {
   mainnet: {
     socialDB: "social.near",
